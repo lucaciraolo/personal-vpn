@@ -1,0 +1,23 @@
+{
+  "name": "luca-vpn",
+  "version": "1.0.0",
+  "description": "Creates or revokes client certificates for my personal vpn",
+  "main": "index.js",
+  "dependencies": {
+    "ssh-exec": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaciraolo/personal-vpn.git"
+  },
+  "author": "Luca Ciraolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaciraolo/personal-vpn/issues"
+  },
+  "homepage": "https://github.com/lucaciraolo/personal-vpn#readme"
+}
